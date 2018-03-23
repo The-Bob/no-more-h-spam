@@ -9,7 +9,6 @@
   "author": "Wesley Kronmiller",
   "license": "ISC",
   "dependencies": {
-    "discord.io": "^2.5.3",
-    "dotenv": "^5.0.1"
-  }
+    "discord.io": "^2.5.3"
+	}
 }
